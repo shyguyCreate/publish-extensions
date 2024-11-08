@@ -618,8 +618,7 @@
   },
   "mads-hartmann.bash-ide-vscode": {
     "repository": "https://github.com/bash-lsp/bash-language-server",
-    "location": "vscode-client",
-    "prepublish": "pnpm"
+    "location": "vscode-client"
   },
   "magicstack.MagicPython": {
     "repository": "https://github.com/MagicStack/MagicPython"
